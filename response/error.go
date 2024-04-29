@@ -1,5 +1,11 @@
 package response
 
+/*
+
+	v0.0.1 -> siempre los releases son de este formato
+
+
+*/
 import (
 	"encoding/json"
 	"net/http"
